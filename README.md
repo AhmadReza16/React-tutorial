@@ -1,9 +1,11 @@
-# ⚛️🚀 React Journey with Bro Code
+# ⚛️🚀 React Tutorial Highlights
 
-Welcome to my **React learning journey**!  
-Here you’ll find all the code I wrote while following  
-the [Bro Code React tutorial](https://www.youtube.com/@BroCodez) on YouTube. 🎥
+Welcome to my **React learning !  
 
+This repository contains my practice files from the  
+[Bro Code React tutorial](https://www.youtube.com/@BroCodez).  
+
+I’m following the tutorial step by step and uploading the code I write while learning React.
 ---
 
 ## 📂 What’s Inside?
