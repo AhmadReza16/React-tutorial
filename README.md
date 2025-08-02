@@ -8,6 +8,18 @@ This repository contains my practice files from the
 I’m following the tutorial step by step and uploading the code I write while learning React.
 ---
 
+
+## 📂 Folder Structure
+
+```
+React Tutorial/
+├── part-01 (videos 1-10)
+├── part-02 (videos 11-20)
+
+```
+---
+
+
 ## 📂 What’s Inside?
 
 - 🧩 **Components** – my first steps in React  
