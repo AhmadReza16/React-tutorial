@@ -1,4 +1,4 @@
-# 📦 JavaScript Tutoiral – Videos 1 to 10
+# 📦 React Tutoiral – Videos 1 to 10
 
 This folder contains my React practice files based on the **first 10 videos** of the Bro Code React tutorial on YouTube.
 
